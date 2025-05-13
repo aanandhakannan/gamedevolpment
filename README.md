@@ -1,5 +1,9 @@
 # EX 9 : IMAGE EDITING
 
+NAME : AANANDHA KANNAN S
+
+REG NO : 212224040003
+
 ## AIM:
 
  To edit an image using an image editing software.
@@ -51,3 +55,9 @@
 
 
 ## OUTPUT:
+
+![WhatsApp Image 2025-05-11 at 14 09 22](https://github.com/user-attachments/assets/7ae704b9-002e-451e-b33e-6e1af76428aa)
+
+## RESULT:
+
+Thus an image is edited using an image editing software.
